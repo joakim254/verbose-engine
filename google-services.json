@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "974816996003",
+    "firebase_url": "https://breakthrough-a06cc.firebaseio.com",
+    "project_id": "breakthrough-a06cc",
+    "storage_bucket": "breakthrough-a06cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974816996003:android:47a4ee61927a97d6",
+        "android_client_info": {
+          "package_name": "com.Mombasa.Breakthrough"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974816996003-oiqhuk5ef7secdfjldnvfh60lmtr809q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvEZJ8qg4LxqUOE5n__F3mJtki2vEGjrM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
